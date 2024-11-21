@@ -3,7 +3,7 @@ const images = [
     "1.jpg", "2.jpg", "3.jpg", "Slide 1.jpg", "Slide 2.jpg",
     "Slide 3.jpg", "Slide 4.jpg", "Slide 5.jpg", "Slide 6.jpg", "Slide 7.jpg", "Slide 8.jpg", "Slide 9.jpg", "Slide 10.jpg", "Slide 11.jpg", 
     "Slide 12.jpg", "Slide 13.jpg", "Slide 14.jpg", "Slide 15.jpg", "Slide 16.jpg", "Slide 17.jpg", "Slide 18.jpg", "Slide 19.jpg", "Slide 20.jpg",
-    "Slide 21.jpg", "Slide 22.jpg", "Slide 23.jpg", "Slide 24.jpg", "Slide 25.png", "Slide 26.png", "Slide 27.png", "Slide 28.png" , "Slide 29.png",
+    "Slide 21.jpg", "Slide 22.jpg", "Slide 23.jpg", "Slide 24.png", "Slide 25.png", "Slide 26.png", "Slide 27.png", "Slide 28.png" , "Slide 29.png",
     "Slide 30.png", "Slide 31.png", "Slide 33.png", "Slide 34.png", "Slide 35.png", "Slide 36.png", "Slide 37.png", "Slide 38.png", "Slide 39.png",
     "Slide 40.png", "Slide 41.png", "Slide 42.png", "Slide 43.png", "Slide 44.png", "Slide 45.png", "Slide 46.png", "Slide 47.png", "Slide 48.png",
     "Slide 49.png", "Slide 50.png", "Slide 51png.png", "Slide 52.png", "Slide 53.png", "Slide 54.png", "Slide 55.png", "Slide 56.png", "Slide 57.png",
